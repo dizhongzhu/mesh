@@ -1,9 +1,9 @@
-setuptools
-numpy
+setuptools==69.0.3
+numpy==1.23.1
 matplotlib
 scipy
 pyopengl
-pillow
+pillow==10.2.0
 pyzmq
-pyyaml
-opencv-python
+pyyaml==6.0.1
+opencv-python==4.9.0.80
